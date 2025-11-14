@@ -1,2 +1,2 @@
-# games.sandybuana03.github.io
-Game Collections 
+# sandybuana03.github.io/games
+Game Collections Karya Siswa SMK Al-Irsyad Tegal
